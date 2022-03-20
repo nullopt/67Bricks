@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Recipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="951">
+  <Metadata>
+    <Created>2014-11-09T00:00:00</Created>
+    <Author>Benjamin Bakewell</Author>
+    <Title>Raspberry Bakewell Cake</Title>
+  </Metadata>
+  <Content>
+    <Lead>This simple almondy cake is a great way of using up pick-your-own raspberries.</Lead>
+    <Ingredients>
+      <Ingredient>
+        <Amount>140</Amount>
+        <Unit>grams</Unit>
+        <Item>Ground Almond</Item>
+      </Ingredient>
+      <Ingredient>
+        <Amount>140</Amount>
+        <Unit>grams</Unit>
+        <Item>Butter, softened</Item>
+      </Ingredient>
+      <Ingredient>
+        <Amount>140</Amount>
+        <Unit>grams</Unit>
+        <Item>Golden Caster Sugar</Item>
+      </Ingredient>
+      <Ingredient>
+        <Amount>140</Amount>
+        <Unit>grams</Unit>
+        <Item>Self-raising Flour</Item>
+      </Ingredient>
+      <Ingredient>
+        <Amount>2</Amount>
+        <Unit xsi:nil="true" />
+        <Item>Eggs</Item>
+      </Ingredient>
+      <Ingredient>
+        <Amount>1</Amount>
+        <Unit>tsp</Unit>
+        <Item>Vanilla Extract</Item>
+      </Ingredient>
+      <Ingredient>
+        <Amount>250</Amount>
+        <Unit>grams</Unit>
+        <Item>Raspberries</Item>
+      </Ingredient>
+      <Ingredient>
+        <Amount>2</Amount>
+        <Unit xsi:nil="true" />
+        <Item>tbsp Flaked Almond</Item>
+      </Ingredient>
+      <Ingredient>
+        <Amount xsi:nil="true" />
+        <Unit xsi:nil="true" />
+        <Item />
+      </Ingredient>
+    </Ingredients>
+    <Method>
+      <Step>Heat oven to 180C/160C fan/gas 4 and base-line and grease a deep 20cm loose-bottomed cake tin. Blitz the ground almonds, butter, sugar, flour, eggs and vanilla extract in a food processor until well combined.</Step>
+      <Step>Spread half the mix over the cake tin and smooth over the top. Scatter the raspberries over, then dollop the remaining cake mixture on top and roughly spread – you might find this easier to do with your fingers. Scatter with flaked almonds and bake for 50 mins until golden. Cool, remove from the tin and dust with icing sugar to serve.</Step>
+    </Method>
+  </Content>
+</Recipe>
